@@ -1,0 +1,9 @@
+{
+  "name": "Apothecare — Universal Medical Sanctuary & Big-Data Platform",
+  "short_name": "Apothecare",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f4f9f8",
+  "theme_color": "#0d9488",
+  "description": "Multi-API fault-tolerant medicinal, first-aid, disease specialty, pathogen, and holistic health platform."
+}
