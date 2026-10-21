@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d9488"/>
+      <stop offset="50%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded Squircle Sanctuary Badge -->
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <!-- Subtle Medical Cross Aura -->
+  <path d="M26 10 H38 V26 H54 V38 H38 V54 H26 V38 H10 V26 H26 Z" fill="#ffffff" fill-opacity="0.12"/>
+  <!-- Healing Botanical Leaves -->
+  <path d="M16 28 C10 22 12 14 20 16 C22 22 20 26 16 28 Z" fill="#a7f3d0"/>
+  <path d="M48 28 C54 22 52 14 44 16 C42 22 44 26 48 28 Z" fill="#a7f3d0"/>
+  <!-- Golden Rod of Asclepius -->
+  <path d="M32 10 V54" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M21 19 C21 13 43 13 43 21 C43 29 21 29 21 37 C21 45 43 45 43 50" fill="none" stroke="#fde68a" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="32" cy="10" r="4.5" fill="#fde68a"/>
+</svg>
